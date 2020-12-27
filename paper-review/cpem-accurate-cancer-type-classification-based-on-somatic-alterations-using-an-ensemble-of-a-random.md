@@ -6,12 +6,12 @@ description: >-
 
 # CPEM: Accurate cancer type classification based on somatic alterations using an ensemble of a random
 
-keywords: cancer, classification, ensemble   
-type: 논문 리뷰   
-기수: 1기   
-기술 분류: 신약개발   
-날짜: 2020년 10월 18일   
-스터디 그룹: 대회참가\(신약개발\)   
+keywords: cancer, classification, ensemble  
+type: 논문 리뷰  
+기수: 1기  
+기술 분류: 신약개발  
+날짜: 2020년 10월 18일  
+스터디 그룹: 대회참가\(신약개발\)  
 작성자: Chanran Kim
 
 ## Abstract
