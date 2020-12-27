@@ -4,6 +4,7 @@
 
 ## notebook review
 
+* [\[MoA\] Public 26th solution](notebook-review/moa-public-26th-solution.md)
 * [Untitled](notebook-review/untitled.md)
 
 ## Paper review
