@@ -2,10 +2,10 @@
 
 * [Initial page](README.md)
 
-## notebook review
+## Solution review
 
-* [\[MoA\] Public 26th solution](notebook-review/moa-public-26th-solution.md)
-* [Untitled](notebook-review/untitled.md)
+* [\[MoA\] Public 26th solution](solution-review/moa-public-26th-solution.md)
+* [Untitled](solution-review/untitled.md)
 
 ## Paper review
 
