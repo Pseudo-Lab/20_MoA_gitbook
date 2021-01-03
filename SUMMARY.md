@@ -4,7 +4,7 @@
 
 ## Solution review
 
-* [\[MoA\] Public 26th solution](solution-review/moa-public-26th-solution.md)
+* [신약의 작용 메커니즘 예측 \| 차근차근 완벽한 설명 \| EDA에서 앙상블까지](solution-review/moa-public-26th-solution.md)
 * [Stacking & Blending](solution-review/untitled.md)
 * [MoA Inference 노트북 작성](solution-review/moa-inference.md)
 * [3rd Place Public - We Should Have Trusted CV - 118th Private](solution-review/untitled-2.md)
