@@ -17,7 +17,7 @@
   * Assign a spacing between -1 and 1 to the sorted features
   * Apply inverse error function → makes a gaussian distribution
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ### modeling
 
@@ -51,13 +51,13 @@
 
 2. Install python packages → Inference stage1 models → get the predictions of each models
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 3. Stacking \(MLP, 1D CNN, Weight Optimization\)
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 * **Not enough time**
   * Target Encoding to g-,c- bin's feature
@@ -74,7 +74,7 @@
 
 ## \[Update\] Private 3rd Rank with Various Stacking
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 0.01608 → 0.01599
 
@@ -84,7 +84,7 @@
 
 ### GCN Stacking
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 * Adjacency Matrix: Matrix of ones / \(\# of classes\)^2
 * Node: \(1, 5\)

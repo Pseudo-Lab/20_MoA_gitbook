@@ -14,7 +14,11 @@
 * [nn-svm-tabnet-xgb-with-pca-cnn-stacking-without-pp](notebook-review/nn-svm-tabnet-xgb-with-pca-cnn-stacking-without-pp.md)
 * [Public 46th / Private 34th Solution](notebook-review/public-46th-private-34th-solution.md)
 * [5-Fold train/valid set](notebook-review/untitled-1.md)
-* [Untitled](notebook-review/untitled-2.md)
+* [SMOTE - Upsampling](notebook-review/untitled-2.md)
+* [Anomaly Detection study](notebook-review/anomaly-detection-study.md)
+* [EDA](notebook-review/eda.md)
+* [Catboost Training](notebook-review/catboost-training.md)
+* [TabNet Training](notebook-review/tabnet-training.md)
 
 ## Solution review
 
