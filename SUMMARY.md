@@ -12,6 +12,8 @@
 * [Stacking & Blending](notebook-review/untitled.md)
 * [MoA Inference 노트북 작성](notebook-review/moa-inference.md)
 * [nn-svm-tabnet-xgb-with-pca-cnn-stacking-without-pp](notebook-review/nn-svm-tabnet-xgb-with-pca-cnn-stacking-without-pp.md)
+* [Public 46th / Private 34th Solution](notebook-review/public-46th-private-34th-solution.md)
+* [Untitled](notebook-review/untitled-1.md)
 
 ## Solution review
 
