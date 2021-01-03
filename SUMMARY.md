@@ -19,6 +19,8 @@
 * [EDA](notebook-review/eda.md)
 * [Catboost Training](notebook-review/catboost-training.md)
 * [TabNet Training](notebook-review/tabnet-training.md)
+* [커널 테스트 및 discussion 조사](notebook-review/discussion.md)
+* [MoA Torch baseline code review](notebook-review/moa-torch-baseline-code-review.md)
 
 ## Solution review
 
