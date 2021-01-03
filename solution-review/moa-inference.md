@@ -504,7 +504,7 @@ sub.fillna(0., inplace=True)
 sub.to_csv("submission.csv", index = False)
 ```
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 
 

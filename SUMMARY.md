@@ -7,7 +7,7 @@
 * [\[MoA\] Public 26th solution](solution-review/moa-public-26th-solution.md)
 * [Stacking & Blending](solution-review/untitled.md)
 * [MoA Inference 노트북 작성](solution-review/moa-inference.md)
-* [Untitled](solution-review/untitled-2.md)
+* [3rd Place Public - We Should Have Trusted CV - 118th Private](solution-review/untitled-2.md)
 * [Untitled](solution-review/untitled-1.md)
 
 ## Paper review

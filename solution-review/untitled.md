@@ -2,8 +2,6 @@
 
 ## 
 
-1. **Stacking**
-
 **1.Stacking**
 
 ## Introduction
@@ -47,15 +45,9 @@
 
 #### Contents
 
-#### 2. Blending <a id="5-2-blending"></a>
-
-모델을 통해 input을 만들고, 다시 모델에 넣는 구조때문에 **meta-model** 이라고도 부릅니다.
-
 1. Exploratory Data Analysis \(EDA\)
 2. Feature Engineering
 3. Models Ensemble
-
-**Blending** 은 스태킹과 매우 유사한 방법입니다. 하지만 보다 간단하고, 정보누설의 위험을 줄인니다. 일부는 Stacking과 Blending을 혼용해서 사용한다. \(대부분은 스태킹과 같은 의미로 사용하는 것 같습니다.\)
 
 #### 2. Blending <a id="5-2-blending"></a>
 
