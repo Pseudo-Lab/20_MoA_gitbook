@@ -11,6 +11,7 @@
 * [신약의 작용 메커니즘 예측 \| 차근차근 완벽한 설명 \| EDA에서 앙상블까지](notebook-review/moa-public-26th-solution.md)
 * [Stacking & Blending](notebook-review/untitled.md)
 * [MoA Inference 노트북 작성](notebook-review/moa-inference.md)
+* [nn-svm-tabnet-xgb-with-pca-cnn-stacking-without-pp](notebook-review/nn-svm-tabnet-xgb-with-pca-cnn-stacking-without-pp.md)
 
 ## Solution review
 
