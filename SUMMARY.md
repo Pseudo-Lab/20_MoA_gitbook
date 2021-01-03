@@ -5,7 +5,7 @@
 ## Solution review
 
 * [\[MoA\] Public 26th solution](solution-review/moa-public-26th-solution.md)
-* [Untitled](solution-review/untitled.md)
+* [Stacking & Blending](solution-review/untitled.md)
 
 ## Paper review
 
