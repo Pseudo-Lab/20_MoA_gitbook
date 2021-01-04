@@ -11,16 +11,9 @@
 * [신약의 작용 메커니즘 예측 \| 차근차근 완벽한 설명 \| EDA에서 앙상블까지](notebook-review/moa-public-26th-solution.md)
 * [Stacking & Blending](notebook-review/untitled.md)
 * [MoA Inference 노트북 작성](notebook-review/moa-inference.md)
-* [nn-svm-tabnet-xgb-with-pca-cnn-stacking-without-pp](notebook-review/nn-svm-tabnet-xgb-with-pca-cnn-stacking-without-pp.md)
-* [Public 46th / Private 34th Solution](notebook-review/public-46th-private-34th-solution.md)
 * [5-Fold train/valid set](notebook-review/untitled-1.md)
 * [SMOTE - Upsampling](notebook-review/untitled-2.md)
-* [Anomaly Detection study](notebook-review/anomaly-detection-study.md)
-* [EDA](notebook-review/eda.md)
 * [Catboost Training](notebook-review/catboost-training.md)
-* [TabNet Training](notebook-review/tabnet-training.md)
-* [커널 테스트 및 discussion 조사](notebook-review/discussion.md)
-* [MoA Torch baseline code review](notebook-review/moa-torch-baseline-code-review.md)
 
 ## Solution review
 
@@ -30,4 +23,5 @@
 * [7th solution](solution-review/7th-solution.md)
 * [8th solution](solution-review/8th-solution.md)
 * [14th-solution](solution-review/14th-solution.md)
+* [Public 46th / Private 34th Solution](solution-review/public-46th-private-34th-solution.md)
 
